@@ -1,0 +1,23 @@
+{
+  "name": "abhas-playwright-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhassingh/Abhas-PlayWright-Learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abhassingh/Abhas-PlayWright-Learning/issues"
+  },
+  "homepage": "https://github.com/abhassingh/Abhas-PlayWright-Learning#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.10.1"
+  }
+}
